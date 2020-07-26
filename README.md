@@ -33,5 +33,5 @@ Other modules also include:<br>
 
 ## Credits 
 <p>The project was developed in the collaboration with:<br>
-  - Joanna Adamczyk (https://github.com/Joanna-Adamczyk)<br>
+  - Damian Bukowski (https://github.com/Damian-Bukowski)<br>
   - Krzystof Iciek (https://github.com/krzysztofic)</p>
