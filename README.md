@@ -22,7 +22,7 @@ Other modules also include:<br>
 ## Features
 - The complete Bootstrap template re-designed for the project purposes 
 - Shows the complete list of available costumes by usign the paginatio feature that the client can also check one by one 
-(with the complete description including: size, material, genre, avaiability and ability to book the costume)
+(with the complete description including: size, material, genre, availability and ability to book the costume)
 - Search bar that makes searching for items easier
 - Contact form module that allows to send and reset messages to the administrator
 - <em>About us</em> page that shows the location of the fancy dress shop together with linked YouTube video
