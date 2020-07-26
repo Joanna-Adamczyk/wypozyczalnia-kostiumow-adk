@@ -21,13 +21,13 @@ Other modules also include:<br>
 
 ## Features
 - The complete Bootstrap template re-designed for the project purposes 
-- Shows the complete list of available costumes by usign the paginatio feature that the client can also check one by one 
+- Shows the complete list of available costumes by usign the pagination feature that the client can also check one by one 
 (with the complete description including: size, material, genre, availability and ability to book the costume)
 - Search bar that makes searching for items easier
 - Contact form module that allows to send and reset messages to the administrator
 - <em>About us</em> page that shows the location of the fancy dress shop together with linked YouTube video
 - Administration module that allows to log in/log out to the separate page where the admin can add/remove costumes, book the costume and remove the booking 
-(the following information are stored: name, size, genre, sex, period of time the costume is booked, price, material, borrow/return/remove options)<br>
+(the following information is stored: name, size, genre, sex, period of time the costume is booked, price, material, borrow/return/remove options)<br>
 
 ![49gwsx](https://user-images.githubusercontent.com/55624673/88480906-fe600a00-cf58-11ea-93df-b72ee174aa71.gif)
 
